@@ -134,3 +134,13 @@ Example:
 - Avoid vague or overly simplistic queries (e.g., *“show all rows”*)
 
 ---
+
+## Corrected Prompt for markdown
+
+✅ Standard & Clear Version (Best for general use):
+Can you give me the SQL queries along with their objectives in a README.md format, shared here in the chat—just like the previous SQL projects you remember from GitHub that I’ve done earlier?
+
+💼 Professional Version (Best for formal or documentation requests):
+Could you please provide the SQL queries along with their respective objectives in a README.md format here in the chat, similar to the previous SQL projects you recall from GitHub that I have completed?
+
+---
