@@ -37,6 +37,79 @@ I’m working on a Kaggle dataset and I want to generate real-world SQL question
 
 ---
 
+# ChatGPT - SQl small prompt
+
+Act as a data analyst or BI developer. I am working on the "Movie Dataset: Budgets, Genres, Insights" from Kaggle.
+Dataset link: ""
+Please generate 20 SQL questions with solutions based on this dataset, ranging from easy to advanced levels. The questions should be framed in a business context and aim to uncover key business insights and analytics.
+
+---
+
+Act as a data analyst or BI developer.
+I am working on the "Movie Dataset: Budgets, Genres, Insights" from Kaggle.
+Dataset link: ""
+Please generate 20 SQL questions with solutions for this dataset, each framed in a business context. The questions should range from easy to advanced levels and cover topics such as subqueries, window functions, CTEs, etc., with a strong focus on business insights and analytics.
+
+---
+
+# Chatgpt-prompt - Pandas (small)
+
+## 🧠 Prompt: Act as a Data Analyst or BI Developer
+
+I am working on the **"Movie Dataset: Budgets, Genres, Insights"** from Kaggle.  
+**Dataset link**: ''
+
+Please generate **20 Python (Pandas) data analysis questions with solutions** based on this dataset.  
+Each question should be framed in a **business context** and range from **easy to advanced levels**.  
+The questions should be organized into the following categories:
+
+---
+
+### 📊 Business Insights Questions
+Explore real-world, decision-making insights such as:
+- Revenue trends
+- Genre performance
+- Budgeting efficiency
+- Director success rates
+- Seasonal patterns
+
+---
+
+### 📈 Statistical Analysis Questions
+Include tasks involving:
+- Descriptive statistics (`mean`, `median`, `mode`, `std`, etc.)
+- Distribution analysis
+- Correlation between features (e.g., `budget` vs `revenue`)
+- Confidence interval estimation (e.g., 95% CI for average revenue by genre or year)
+- Outlier detection
+
+---
+
+### 🔬 Detailed Research / Evaluation Questions
+Focus on deeper analytical breakdowns such as:
+- Budget-to-revenue ratios
+- Performance over decades
+- Long-tail movie success
+- Cross-analysis of genres, directors, and runtimes
+
+---
+
+### 📊 Visual-Driven EDA Questions
+Use **Matplotlib** and/or **Seaborn** to visualize:
+- Top genres, budgets, and revenues
+- Distributions, trends over time
+- Box plots, histograms, count plots, pair plots
+- Correlation heatmaps
+
+---
+
+### ✅ For each question, please provide:
+- A clear **business-style problem statement**
+- The **Python (Pandas) code solution**
+- A short 🎯 **objective or insight** derived from the analysis
+
+---
+
 # ChatGPT-prompt - Pandas
 
 ## ✅ Prompt: Generate Business Insight & Statistical Questions from a Kaggle Dataset in Pandas
