@@ -1,3 +1,9 @@
+# ChatGPT-prompt - Pandas
+
+## ✅ Prompt: Generate Business Insight & Statistical Questions from a Kaggle Dataset in Pandas
+
+---
+
 I am working on the following Kaggle dataset using Python and Pandas:  
 🔗 [FIFA International Soccer Men's Ranking (1993–Now)](https://www.kaggle.com/datasets/tadhgfitzgerald/fifa-international-soccer-mens-ranking-1993now)
 
