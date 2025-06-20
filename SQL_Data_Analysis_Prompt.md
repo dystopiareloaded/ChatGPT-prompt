@@ -1,3 +1,9 @@
+# ChatGPT-prompt - SQL
+
+## 🧠 Prompt: Generate SQL Questions for Kaggle Dataset with Business Insights
+
+---
+
 I am working on this Kaggle dataset.  
 **Dataset link:** https://www.kaggle.com/datasets/tadhgfitzgerald/fifa-international-soccer-mens-ranking-1993now
 
