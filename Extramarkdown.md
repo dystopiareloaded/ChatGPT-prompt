@@ -21,4 +21,6 @@ I only want the questions from the above code in SQL chat code format.
 
 "I’m working on a SQL project using a dataset. I want you to give me 20 SQL questions with business-style problem statements and their solutions. Return everything as a complete GitHub-style markdown README.md inside a single markdown code block. Do NOT give any code or text outside the markdown block. Include the overview, objectives, schema assumptions, categorized questions (Easy, Medium, Advanced), and author section."
 
+## Refined Version:
 
+I want the entire content to be returned inside a single markdown code block. Do not include any code or text outside of it. The content should include the Overview, Objectives, SQL Schema Assumptions, categorized questions (Easy, Medium, Advanced), and an Author section—formatted exactly like the previous Spotify, Netflix, or Video Game SQL projects you've done for me.
