@@ -1,58 +1,62 @@
-# 🎧 Spotify Dataset SQL Project
+# 🎧 Spotify SQL Analysis Project
 
 ## 📂 Dataset
-**Kaggle Link:** [Spotify Dataset by Sanjan Chaudhari](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
+**Source:** [Spotify Dataset by Sanjan Chaudhari](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
 ---
 
-## 🎯 Objective
-Acting as a **Data Analyst and Business Consultant**, the goal is to generate **20 SQL questions with solutions** using this dataset. The questions will range from **easy to advanced levels**, aimed at uncovering key **business insights** and enhancing your **SQL project portfolio**.
+## 📌 Project Overview
+
+I am currently working on a Kaggle dataset titled **"Spotify Dataset by Sanjan Chaudhari"**.  
+This project aims to generate **20 SQL questions with solutions**, categorized from **easy to advanced** levels.
+
+The questions are designed from both a **Data Analyst** and **Business Consultant** perspective, focusing on extracting actionable **business insights**.  
+Each query will be framed in a **real-world business context**, making this project suitable for inclusion in a professional **SQL project portfolio**.
 
 ---
 
-## 📌 Topics Covered
+## 🎯 Key SQL Topics Covered
 
 - 📊 Business Insights  
 - 📈 Aggregations and Filtering  
-- 🧠 Subqueries and CTEs (`WITH` clause)  
+- 🧩 Subqueries and CTEs (`WITH` clause)  
 - 🗓️ Date and Time-based Analysis  
 - 🪟 Window Functions
 
 ---
 
-## 🧠 Skill Progression
+## 🧠 Query Complexity Breakdown
 
 ### ✅ Easy Level
-- Simple data retrieval  
-- Basic filtering using `WHERE`  
-- Aggregations using `SUM()`, `AVG()`, `COUNT()`, etc.
+- Basic data retrieval using `SELECT`
+- Filtering using `WHERE`
+- Simple aggregations: `SUM()`, `COUNT()`, `AVG()`
 
 ---
 
 ### ⚙️ Medium Level
-- Grouping with `GROUP BY`  
-- Joins between multiple tables (if applicable)  
-- Conditional logic with `CASE`  
-- Aggregation with grouping
+- Grouping with `GROUP BY`
+- Aggregation functions on grouped data
+- Joins (if multiple tables exist)
+- Conditional logic using `CASE`
 
 ---
 
 ### 🚀 Advanced Level
 - Nested subqueries  
-- Common Table Expressions (`WITH`)  
+- Common Table Expressions (CTEs)  
 - Window functions like `RANK()`, `ROW_NUMBER()`, `LAG()`, `LEAD()`  
-- Analytical breakdowns across dimensions (e.g., month-over-month growth, most streamed genre by region)
+- Time-based trends and analyses (e.g., top artists by month)
 
 ---
 
-## 🔧 Query Optimization (Advanced)
+## ⚡ Query Optimization (Advanced)
 
-As your SQL complexity increases, focus on **performance tuning** through:
+In later stages, query performance tuning will be addressed using:
 
-- 📌 **Indexing**: Add indexes on frequently queried columns.  
-- 🧪 **Query Execution Plans**: Use `EXPLAIN ANALYZE` to evaluate and refine query performance.
+- 📌 **Indexing**: Add indexes to frequently queried columns  
+- 🧪 **Query Execution Plans**: Use `EXPLAIN ANALYZE` to evaluate and optimize performance
 
 ---
 
-> 📝 **Note:** Each SQL question will be framed in a **real-world business context**, making them ideal for interviews or inclusion in your data analytics portfolio.
-
+> 💼 This SQL project will demonstrate practical business-oriented analytics, strong SQL foundations, and insight-driven query building – making it an ideal addition to any Data Analyst portfolio.
