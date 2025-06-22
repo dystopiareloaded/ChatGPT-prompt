@@ -61,5 +61,7 @@ The questions should cover the following topics:
 🔀 Conditional Logic using CASE WHEN  
 
 The focus should be on uncovering key business insights and analytics, with each question framed in a real-world business context.  
-**Each question should end with a proper question mark (?)** and be suitable for inclusion in an SQL project portfolio.
+Each question should end with a proper question mark (?) and be suitable for inclusion in an SQL project portfolio.  
+For every question, include the SQL query followed by a **🎯 brief objective explaining the business insight behind the query**.
+
 
