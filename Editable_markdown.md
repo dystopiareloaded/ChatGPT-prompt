@@ -1,5 +1,6 @@
 ## Markdown Refined Version
--- 
+
+-
 Please return the entire content inside a single markdown code block, with no text or code outside of it. The markdown should include the following sections in order: Overview, Objectives, SQL Schema Assumptions, Categorized SQL Queries (Easy, Medium, Advanced — with each query followed by its corresponding objective), and an Author section.
 --
 
