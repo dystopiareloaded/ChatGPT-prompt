@@ -91,3 +91,32 @@ Each question should end with a proper question mark (?) and be suitable for inc
 For every question, include:  
 1. The **SQL query**  
 2. A **🎯 Objective:** line explaining the business insight behind the query
+
+---
+
+## Reprise Version
+
+I am working on the following Kaggle dataset:  
+🔗 https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india/data  
+📂 I have also attached my CSV file.
+
+I would like you to act as a **data analyst and business consultant**. Based on this dataset, please generate **30 SQL questions with solutions**, ranging from **Easy** to **Advanced** levels.
+
+The questions should cover the following topics:
+
+- 📊 Business Insights  
+- 🔄 Aggregations and Filtering  
+- 🧩 Subqueries and CTEs (`WITH` clause)  
+- 📅 Date and Time-based Analysis  
+- 📈 Window Functions  
+- 🔀 Conditional Logic using `CASE WHEN`
+
+The focus should be on uncovering **key business insights and analytics**, with each question framed in a **real-world business context**.  
+
+Each question should:
+
+- Be written as a **clear business-style question** ending with a **question mark (?)**
+- Include the **SQL query**
+- Include a 🎯 **Objective:** line explaining the business insight behind the query
+
+These should be suitable for inclusion in a professional **SQL project portfolio**.
